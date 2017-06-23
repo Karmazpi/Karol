@@ -1,6 +1,6 @@
 var player = 'X';
 function plansza(colcount, rowcount){
-    this.pola = []; Karol jest super
+    this.pola = [];
     var content = document.getElementById('kolkokrzyzyk');
     var div = document.createElement('div');
     div.style.width = "500px";
